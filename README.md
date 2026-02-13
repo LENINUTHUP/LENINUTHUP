@@ -72,9 +72,8 @@ Built with **Streamlit**, **Scikit-learn**, and **Python**.
 
 ---
 
-### [AskYourData AI](https://github.com/LENINUTHUP/AskYourData-AI)  
-A **document intelligence platform** that enables users to **chat with their data**.  
-Supports multiple file formats using **LangChain**, **LLMs**, and **Flask** integration with **Hugging Face** and **OpenAI APIs**.
+### [RESUME-ANALYZER](https://github.com/LENINUTHUP/RESUME-ANALYZER)  
+An **end-to-end AI-powered** Resume Analyzer that allows users to upload resumes (PDF/DOCX), analyze them against a Job Description using AI, calculate an ATS score, and edit resumes in a real Word-like editor with formatting preserved.
 
 ---
 

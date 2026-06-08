@@ -64,9 +64,16 @@ I build systems that merge analytical precision with creative thinking — bridg
 
 ---
 
+## **Upcoming Projects**
+
+### [PROF-X-INTELLIGENCE](https://github.com/LENINUTHUP/Data-Scientist-AI) 
+PROF-X is an upcoming AI-first platform designed to simplify the entire data science workflow.
+Instead of switching between multiple tools, users interact with one intelligent system capable of understanding datasets, building machine learning solutions, creating visual stories, and guiding decision-making.
+
+
 ## **Highlighted Projects**
 
-### [Data Scientist AI](https://github.com/LENINUTHUP/Data-Scientist-AI)  
+### [Data Scientist AI](https://github.com/LENINUTHUP/PROF-X-INTELLIGENCE) 
 An interactive platform that performs **end-to-end Data Science automation** — data upload, preprocessing, EDA, feature engineering, model training and evaluation in one place.  
 Built with **Streamlit**, **Scikit-learn**, and **Python**.
 
